@@ -1,0 +1,9 @@
+// AUTO-GENERATED MODULES - Add these to app.module.ts imports array
+import { SubscriptionplansModule } from './modules/subscriptionplans/subscriptionplans.module';
+import { PhotosModule } from './modules/photos/photos.module';
+import { PaymentsModule } from './modules/payments/payments.module';
+
+// Add to @Module imports array:
+// SubscriptionplansModule,
+// PhotosModule,
+// PaymentsModule
